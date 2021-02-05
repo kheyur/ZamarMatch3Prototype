@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: db8adc1cdea05a54c835c8d26900f50f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: STANFORD FREE
+  fontNames:
+  - STANFORD FREE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ba7ac534a2476bd48b38db414a3e76c0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

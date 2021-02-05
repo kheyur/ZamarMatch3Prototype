@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: f0c0321052840ed4fb364582cb0feb33
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lunasol
+  fontNames:
+  - Lunasol
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4f73c7716c2b66d4ab9a84e4a2c96c99, type: 3}
+  - {fileID: 12800000, guid: ed87e5e798915a845a553703a7c3a26f, type: 3}
+  - {fileID: 12800000, guid: 38271a19c774ac547a1b30d43f665a2c, type: 3}
+  - {fileID: 12800000, guid: 991f2a4aa64c21447a2f3437eab4a457, type: 3}
+  - {fileID: 12800000, guid: 3bf050bb384487d4bba7e6f00d79fc19, type: 3}
+  - {fileID: 12800000, guid: 5331438f58b20ab499577922d2fc7b62, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
